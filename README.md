@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @LoudRasm
-- 👀 I’m interested in anime, psychology, existentialism, 
-- 🌱 I’m currently learning English, Literature, Maths, Piano
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in psychology, existentialism and so on. It is very interesting to dig onto those
+- 🌱 I’m currently learning English
 - 📫 How to reach me: FB and IG
-- 😄 Pronouns: he
 - ⚡ Fun fact: we do everything for us
+- I love anime which are from the 20s like Evamgelion,Angel's egg, Lain, some cyberpunk animes like Cowboy bebop. They sent profound messages
 
-<!---
-LoudRasm/LoudRasm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
